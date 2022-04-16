@@ -1,1 +1,2 @@
 Raspi-MotorHAT==0.0.2
+smbus==1.1.post2
